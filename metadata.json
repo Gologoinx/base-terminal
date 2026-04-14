@@ -1,0 +1,6 @@
+{
+  "name": "Base Builder Terminal",
+  "description": "A gamified dashboard for Base builders with daily on-chain check-ins and builder attribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
